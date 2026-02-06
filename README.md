@@ -1,4 +1,4 @@
-# Desafio-DIO---Resolvendo-C-digos-em-Python-com-o-Github-Copilot
+# Desafio-DIO---Resolvendo-Códigos-em-Python-com-o-Github-Copilot
 Desafio DIO - Resolvendo Códigos em Python com o Github Copilot
 
 Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Copilot.
