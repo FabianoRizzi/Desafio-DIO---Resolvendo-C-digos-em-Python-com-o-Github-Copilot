@@ -14,13 +14,13 @@ Descrição: Vamos receber dois dados diferentes do usuário e concatena-los em 
 
 O que aprenderemos?
 
-*Manipulação de Strings (string)
+* Manipulação de Strings (string)
 
-*Concatenação
+* Concatenação
 
-*Entrada de dados
+* Entrada de dados
 
-*Utilização eficiente do Github Copilot
+* Utilização eficiente do Github Copilot
 
 -------------------------------------------------------
 
@@ -30,15 +30,15 @@ Descrição: Agora vamos solicitar uma string e um número inteiro como entrada.
 
 O que aprenderemos?
 
-*Manipulação de Strings (string)
+* Manipulação de Strings (string)
 
-*Números Inteiros (int)
+* Números Inteiros (int)
 
-*Múltiplas repetições
+* Múltiplas repetições
 
-*Entrada de dados
+* Entrada de dados
 
-*Aproveitar as sugestões do Github Copilot
+* Aproveitar as sugestões do Github Copilot
 
 -------------------------------------------------------
 
@@ -48,11 +48,11 @@ Descrição: Vamos solicitar como entrada dois números e depois vamos realizar 
 
 O que aprenderemos?
 
-*Operações Matemáticas Básicas
+* Operações Matemáticas Básicas
 
-*Entrada de dados
+* Entrada de dados
 
-*Utilização eficiente do Github Copilot
+* tilização eficiente do Github Copilot
 
 ------------------------------------------------------
 
@@ -62,11 +62,11 @@ Descrição: Como entrada, receba um número inteiro e verifique se ele é par o
 
 O que aprenderemos?
 
-*Utilização de condicionais em Python (if, else) para realizar verificações.
+* Utilização de condicionais em Python (if, else) para realizar verificações.
 
-*Introdução ao conceito de operador de módulo (%) para verificar se um número é par ou ímpar.
+* Introdução ao conceito de operador de módulo (%) para verificar se um número é par ou ímpar.
 
-*Exploração do uso de uma ferramenta de IA, como o Github Copilot, para otimizar a estrutura do código.
+* Exploração do uso de uma ferramenta de IA, como o Github Copilot, para otimizar a estrutura do código.
 
 -------------------------------------------------------
 
@@ -76,11 +76,11 @@ Descrição: Agora vamos calcular a média de três notas fornecidas na entrada 
 
 O que aprenderemos?
 
-*Uso de variáveis para armazenar dados fornecidos pelo usuário.
+* Uso de variáveis para armazenar dados fornecidos pelo usuário.
 
-*Aplicação de operadores aritméticos (+, /) para calcular a média de um conjunto de valores.
+* Aplicação de operadores aritméticos (+, /) para calcular a média de um conjunto de valores.
 
-*Prática na solicitação e manipulação de entrada do usuário.
+* Prática na solicitação e manipulação de entrada do usuário.
 
 --------------------------------------------------------
 
@@ -90,8 +90,8 @@ Descrição: Vamos testar se uma palavra é um palíndromo?! Uma dica é: Utiliz
 
 O que aprenderemos?
 
-*Manipulação de strings em Python, especialmente invertendo uma string.
+* Manipulação de strings em Python, especialmente invertendo uma string.
 
-*Compreensão de como comparar a string original com sua versão invertida para determinar se é um palíndromo.
+* Compreensão de como comparar a string original com sua versão invertida para determinar se é um palíndromo.
 
-*Introdução ao conceito de palíndromos e sua aplicação em problemas de programação.
+* Introdução ao conceito de palíndromos e sua aplicação em problemas de programação.
